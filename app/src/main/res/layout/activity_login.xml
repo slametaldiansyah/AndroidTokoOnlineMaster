@@ -35,12 +35,14 @@
             android:src="@drawable/login"/>
 
         <Button
+            android:id="@+id/btn_prosesLogin"
             android:layout_marginTop="20dp"
             android:layout_width="150dp"
             android:layout_height="wrap_content"
             android:text="Masuk"/>
 
         <Button
+            android:id="@+id/btn_darftar"
             android:layout_marginTop="5dp"
             android:layout_width="150dp"
             android:layout_height="wrap_content"
